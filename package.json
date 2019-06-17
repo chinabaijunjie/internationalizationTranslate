@@ -1,0 +1,11 @@
+{
+  "name": "translate",
+  "version": "1.0.0",
+  "description": "国际化翻译",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "baijunjie",
+  "license": "ISC"
+}
