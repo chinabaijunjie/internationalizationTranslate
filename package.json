@@ -1,7 +1,7 @@
 {
   "name": "translate",
   "version": "1.0.0",
-  "description": "国际化翻译",
+  "description": "国际化翻译的一个小工具",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
