@@ -1,16 +1,10 @@
-const server  = require('http');
 var fs = require("fs");
 
 const path = './analysis';
 const codeList = require(path + '/code');
 const content = require(path + '/content');
 
-server.createServer(function(req, res) {
-  const newObject = createObject(codeList, content);
-  res.write(newObject)
-  res.end()
-}).listen(8080);
-
+const newObject = createObject(codeList, content);
 function createObject(list, content) {
   let codeList = [];
   if ( list && content && content.length > 0 ) {
@@ -28,6 +22,4 @@ function createObject(list, content) {
     }
     console.log("数据写入成功！");
   });
-
-  return newData;
 }

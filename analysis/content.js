@@ -1,65 +1,65 @@
 module.exports = [
-  '工専路{no}号店',
+  'gongzhuan road {no} shop ',
 
-'指標説明',
+'index description ',
 
-'総売上',
+'gross sales ',
 
-'日売上',
+'daily sales ',
 
-'アクセス量',
+'traffic ',
 
-'アクセストレンド',
+'traffic trends ',
 
-'お店アクセス数ランキング',
+'store traffic ranking ',
 
-'日アクセス量',
+'daily traffic ',
 
-'周同时',
+'week to week ',
 
-'日比较',
+'year-to-date ',
 
-'支給ペン数',
+'number of payments ',
 
-'変化率',
+'conversion rate ',
 
-'运営活动効果',
+'operational activity effectiveness ',
 
-'トレンド',
+'Sales trends',
 
-'お店の売上ランキング',
+'store sales ranking ',
 
-'年中',
+'all the year round',
 
-'今月',
+'this month',
 
-'今周',
+'this week',
 
-'今日',
+'today',
 
-'検索ユーザー数',
+'search the number of users ',
 
-'一人当たりの検索回数',
+'searches per person ',
 
-'オンライン人気検索',
+'popular online search ',
 
-'売上高別比率',
+'percentage of sales by category ',
 
-'全てのルート',
+'all channels ',
 
-'ホネックス',
+'online',
 
-'店',
+'stores',
 
-'売上',
+'sales ',
 
-'お客様',
+'traffic ',
 
-'ランキング',
+'no',
 
-'キーワード',
+'search keywords ',
 
-'id数',
+'Number of users',
 
-'周の上升',
+'Weekly gains',
 ]
